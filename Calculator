@@ -3,7 +3,7 @@ import tkinter as tk
 
 def add_digit(digit):
     value = calc.get()
-    if value[0] == '0':
+    if value[0] == '0' and len(value) == 1:
         value = value[1:]
     calc.delete(0, tk.END)
     calc.insert(0, value+str(digit))
