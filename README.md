@@ -8,8 +8,8 @@
 # 4) Then enter the number that you want to do operations
 # 5) Press the equal sign and get the answer =
 # 6) If you want to delete and do other operation just press C 
-
+![calculator-mascot](https://user-images.githubusercontent.com/73305001/98432835-08f77700-20e4-11eb-9b2c-2a0cc6adacfb.png)
 <h2>It is a calculator that works . As you can see it is understandable.</h2>
 <h2>If you want to  do some operation with this number that you entered first , type the number and press operation so it will give answer, ex/ 9* = it will return 81 . And if you do more operatioins like 35-6565+98*47595+3489 it will return each answer by the order when you are pressing second operation. That will be really helpful and easy</h2>
-![calculator-mascot](https://user-images.githubusercontent.com/73305001/98432835-08f77700-20e4-11eb-9b2c-2a0cc6adacfb.png)
+
 <h1>I hope it was clear ! See you ! Thanks for reading . I wish you all the bests!</h1>
