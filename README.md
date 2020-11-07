@@ -12,4 +12,6 @@
 <h2>It is a calculator that works . As you can see it is understandable.</h2>
 <h1> If you want to  do some operation with this number that you entered first , type the number and press operation so it will give answer, ex/ 9* = it will return 81 . And if you do more operatioins like 35-6565+98*47595+3489 it will return each answer by the order when you are pressing second operation. That will be really helpful and easy</h1>
 
-# I hope it was clear ! See you ! Thanks for reading . I wish you all the bests!
+![img23](https://user-images.githubusercontent.com/73305001/98434049-09950b00-20ee-11eb-8d2e-69bc65b71fc6.jpg)
+
+<h1>I hope it was clear ! See you ! Thanks for reading . I wish you all the bests!</h1>
